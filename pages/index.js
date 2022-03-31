@@ -1,7 +1,7 @@
 import NextLink from 'next/link'
 import { Button, Container, Box, Heading, Image, Link, useColorModeValue } from '@chakra-ui/react'
 import { ChevronRightIcon } from '@chakra-ui/icons' 
-import Layout from '../components/layouts/article '
+import Layout from '../components/layouts/article'
 import Section from '../components/section'
 import Paragraph from '../components/paragraph'
 import { BioSection, BioYear } from '../components/bio'
